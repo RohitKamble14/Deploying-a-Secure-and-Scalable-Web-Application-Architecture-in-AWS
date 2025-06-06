@@ -19,12 +19,6 @@ This setup helps meet the demands of secure, scalable, and production-grade infr
 
 ---
 
-## 🧩 Architecture Diagram
-
-![VPC Architecture](VPC.jpeg)
-
----
-
 ## 📋 Steps to Deploy
 
 ### 🔹 Step 1: Create the VPC with Public and Private Subnets
