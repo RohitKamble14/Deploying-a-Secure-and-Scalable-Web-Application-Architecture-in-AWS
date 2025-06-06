@@ -6,5 +6,6 @@
 ![Load Balancer](https://github.com/user-attachments/assets/214c3763-d101-438d-a86c-b6da3a116d50)
 ![Route 53 hosted Zone](https://github.com/user-attachments/assets/5b1d9f4f-4eaf-46b2-90a5-b282efa9e210)
 ![LoadBalancer end Point](https://github.com![With Custom Domain](https://github.com/user-attachments/assets/0dffa0a4-d94b-4374-a656-4df8b0c68568)
+
 ![With Custom Domain](https://github.com/user-attachments/assets/9395708d-f422-4527-8300-d4b97fdb8ccd)
 ![image](https://github.com/user-attachments/assets/a9a73e36-f812-4459-9b18-26e7e10e563a)
