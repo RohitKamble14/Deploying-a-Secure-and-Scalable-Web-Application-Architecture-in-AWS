@@ -2,7 +2,7 @@
 
 Architected a high-availability web application using a basic HTML template, hosted on AWS EC2 within a custom VPC with public and private subnets.
 Configured Application Load Balancer (ALB) and Auto Scaling Groups to ensure 99.9% uptime and handle 1,000+ concurrent users.
-Implemented Route 53 for DNS management, enabling hosting on a custom domain (e.g., www.mywebapp.com).
+Implemented Route 53 for DNS management, enabling hosting on a custom domain.
 Secured access to private subnet instances using a Bastion Host for network segregation.
 ---
 
